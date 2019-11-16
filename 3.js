@@ -1,4 +1,4 @@
-function cetakPola(jum){
+const cetakPola = (jum) => {
     let i= 0;
     while(i<jum){
         let temp ='';
